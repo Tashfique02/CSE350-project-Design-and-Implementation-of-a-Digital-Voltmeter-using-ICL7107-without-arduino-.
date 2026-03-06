@@ -1,0 +1,2 @@
+# CSE350-project-Design-and-Implementation-of-a-Digital-Voltmeter-using-ICL7107-without-arduino-.
+This project designs a digital voltmeter that reads analog voltage and displays it digitally without a microcontroller. It uses the ICL7107 ADC to drive a 3.5-digit LED display. Powered by a 5V L7805 , the circuit includes protection and filtering components and measures up to 200V, with precision calibrated using a multi-turn potentiometer.
